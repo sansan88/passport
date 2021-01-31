@@ -1,0 +1,8 @@
+{
+  "name": "passport",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "d95819d9"
+}
